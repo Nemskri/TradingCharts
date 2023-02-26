@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TradingCharts/static/css/main.c7ec3132.css",
+    "main.js": "/TradingCharts/static/js/main.bd84d622.js",
+    "index.html": "/TradingCharts/index.html",
+    "main.c7ec3132.css.map": "/TradingCharts/static/css/main.c7ec3132.css.map",
+    "main.bd84d622.js.map": "/TradingCharts/static/js/main.bd84d622.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.bd84d622.js"
+  ]
+}
